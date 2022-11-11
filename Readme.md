@@ -1,7 +1,6 @@
 # Личный проект «Что посмотреть»
-
-* Студент: [Юлия Пригодина](https://up.htmlacademy.ru/react/11/user/2058203).
-* Наставник: `Максим Югай`(https://htmlacademy.ru/profile/id1704235).
+Студент: [Юлия Пригодина](https://up.htmlacademy.ru/react/11/user/2058203).
+Наставник: `Максим Югай`(https://htmlacademy.ru/profile/id1704235).
 
 ---
 
